@@ -38,7 +38,7 @@ SkillBoost_ is your go-to platform for enriching articles and blog posts coverin
 ![App Screenshot](https://github.com/SumitKadam451/SkillBoost_/blob/main/Screenshot-3.png)
 ## Demo
 
-Check out the live demo of Selby Blogs
+Check out the live demo of SkillBoost
 
 [SkillBoost](https://sumitkadam451.github.io/SkillBoost_/)
 
