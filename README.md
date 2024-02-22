@@ -38,9 +38,7 @@ SkillBoost_ is your go-to platform for enriching articles and blog posts coverin
 ![App Screenshot](https://github.com/SumitKadam451/SkillBoost_/blob/main/Screenshot-3.png)
 ## Demo
 
-Check out the live demo of SkillBoost
-
-[SkillBoost](https://sumitkadam451.github.io/SkillBoost_/)
+Check out the live demo of [SkillBoost](https://skillboost.pages.dev/)
 
 
 ## 🚀 About Me
@@ -57,7 +55,7 @@ Have questions, suggestions, or just want to say hi? Don't hesitate to reach out
 
 -Email: SumitKadam451@gmail.com
 
--LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/sumit-kadam-380190219/)
+-LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/sumit-kadam-58b2102b2/)
 
 -LinkeFolio: Here's my [Bento! ](https://bento.me/sumit-linkfolio)
 
